@@ -1,4 +1,10 @@
-Urnieta, Zarautz, Irun, Alegia, Donostia, Pasaia
-Lasarte-Oria, Oiartzun
+Urnieta
+Zarautz
+Irun
+Alegia
+Donostia
+Pasaia
+Lasarte-Oria
+Oiartzun
 Lesaka
 Ordizia
